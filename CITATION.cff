@@ -1,0 +1,26 @@
+cff-version: 1.0.0
+message: If you use this dataset, please cite it using these metadata.
+title: GIMA-T1DM-Dataset (Multimodal dataset on glucose interpretation, treatment decisions and smartwatch visualisation for type 1 diabetes)
+abstract: |
+  People with Type 1 Diabetes Mellitus (T1DM) must frequently check their blood glucose and make over 180 health-critical decisions daily alongside everyday life decisions. These individuals heavily rely on glucose monitoring devices to monitor their glucose levels, yet their user interfaces often lead to misinterpretation. The constant need to check glucose levels several times a day also contributes to negative emotional impacts, including diabetes distress and burnout, where individuals may eventually disengage from self-care. This dataset presents findings from a series of studies: (1) investigating how existing user interfaces contribute to misinterpretation, (2) exploring textual representations to reduce such errors, and (3) establishing foundational work on glanceable smartwatch visualisations for ambient glucose delivery without overwhelming users. Making these data available provides clinicians with deeper insights into patient misinterpretations and supports improved care practices. It also offers researchers a foundation for further work in designing user interfaces that reduce cognitive burden and emotional strain, ultimately supporting better long-term diabetes self-management.
+authors:
+  - family-names: Kongdee
+    given-names: Rujiravee
+    orcid: "https://orcid.org/0000-0003-0375-2833"
+  - family-names: Parsia
+    given-names: Bijan
+    orcid: "https://orcid.org/0000-0002-3222-7571"
+  - family-names: Hood
+    given-names: Thabit
+    orcid: "https://orcid.org/0000-0001-6076-6997"
+  - family-names: Harper
+    given-names: Simon
+    orcid: "https://orcid.org/0000-0001-9301-5049"
+version: 0.1.0
+date-released: "2025-10-13"
+identifiers:
+  - description: This is the collection of archived snapshots of all versions of the GIMA project
+    type: doi
+    value: "10.5281/zenodo.17297512"
+license: CC-BY-4.0
+repository-code: "https://github.com/Rujiravee/GIMA-T1DM-Dataset"
